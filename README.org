@@ -1,0 +1,10 @@
+* rectangle-packing
+
+Simple rectangle packing code, useful for creating textures for OpenGL
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/woudshoo/rectangle-packing.git   |
+| commit  | 02aab04  |
+| systems | rectangle-packing |
+|---------+-------------------------------------------|
+
