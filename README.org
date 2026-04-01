@@ -8,3 +8,4 @@ Simple rectangle packing code, useful for creating textures for OpenGL
 | systems | rectangle-packing |
 |---------+-------------------------------------------|
 
+ 
